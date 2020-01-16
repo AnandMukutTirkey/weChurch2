@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#DA723E</item>
+        <item name="colorPrimaryDark">#A3C57F50</item>
+        <item name="colorAccent">#BB3E01</item>
+        <item name="primary_background_color">#FFFFFF</item>
+        <item name="secondary_background_color">#F5F5F5</item>
+        <item name="tertiary_background_color">#C4C4C4</item>
+        <item name="primary_text_color">#000000</item>
+        <item name="secondary_text_color">#555555</item>
+        <item name="tertiary_text_color">#868686</item>
+        <item name="tint_color">#F7531D00</item>
+        <item name="tint_text_color">#E9000000</item>
+        <item name="background_tint_color">#EBE9E2</item>
+        <item name="button_color">#BE8351</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimation</item>
+        <item name="android:textColorHint">#D17B59</item>
+        <item name="android:editTextColor">#A05F46</item>
+    </style>
+
+    <!-- Dark application theme. -->
+    <style name="DarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#361E12</item>
+        <item name="colorPrimaryDark">#4E2C1A</item>
+        <item name="colorAccent">#A0A0A0</item>
+        <item name="primary_background_color">#000000</item>
+        <item name="secondary_background_color">#383838</item>
+        <item name="tertiary_background_color">#575757</item>
+        <item name="primary_text_color">#FFFFFF</item>
+        <item name="secondary_text_color">#B3B3B3</item>
+        <item name="tertiary_text_color">#808080</item>
+        <item name="tint_color">#CECECE</item>
+        <item name="tint_text_color">#FFFFFF</item>
+        <item name="background_tint_color">#75746F</item>
+        <item name="button_color">#5918D3</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimation</item>
+        <item name="android:textColorHint">#BFDAB6</item>
+        <item name="android:editTextColor">#CDDC39</item>
+    </style>
+
+    <style name="WindowAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+
+</resources>

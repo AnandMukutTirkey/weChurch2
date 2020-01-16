@@ -1,0 +1,37 @@
+[
+  {
+    "name" : "sakshi vani",
+    "hindi name" : "साक्षी वाणी",
+    "count" : 348,
+    "image" : "imgSakshiVani.png",
+    "file" : "SakshiVani"
+  },
+  {
+    "name" : "kurukh dandi",
+    "hindi name" : "कूड़ुख डंडी",
+    "count" : 360,
+    "image" : "imgKurukhDandi.png",
+    "file" : "KurukhDandi"
+  },
+  {
+    "name" : "sahe dandi",
+    "hindi name" : "साहे डंडी",
+    "count" : 73,
+    "image" : "imgSaheDandi.png",
+    "file" : "SaheDandi"
+  },
+  {
+    "name" : "bible",
+    "hindi name" : "बाइबल",
+    "count" : 66,
+    "image" : "imgBible.png",
+    "file" : "Bible"
+  },
+  {
+    "name" : "bhakti bhajan",
+    "hindi name" : "भक्ति भजन",
+    "count" : 0,
+    "image" : "imgBhaktiBhajan.png",
+    "file" : "BhaktiBhajan"
+  }
+]
